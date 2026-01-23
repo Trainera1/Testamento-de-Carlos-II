@@ -1,0 +1,7 @@
+[2 Los Negocios de Luis XIV en Madrid RHM_25_07.pdf](https://github.com/user-attachments/files/24827410/2.Los.Negocios.de.Luis.XIV.en.Madrid.RHM_25_07.pdf)
+[Las últimas voluntades regias de la casa de Austria.pdf](https://github.com/user-attachments/files/24827409/Las.ultimas.voluntades.regias.de.la.casa.de.Austria.pdf)
+[Entre órdenes religiosas, cortesanos y luchas de poder. Confesores reales en la casa hispana de los Habsbuepure-2412.pdf](https://github.com/user-attachments/files/24827407/Entre.ordenes.religiosas.cortesanos.y.luchas.de.poder.Confesores.reales.en.la.casa.hispana.de.los.Habsbuepure-2412.pdf)
+[el-cardenal-julio-alberoni-0.pdf](https://github.com/user-attachments/files/24827406/el-cardenal-julio-alberoni-0.pdf)
+[El_reinado_del_archiduque_Carlos_en_Espa.pdf](https://github.com/user-attachments/files/24827405/El_reinado_del_archiduque_Carlos_en_Espa.pdf)
+[Carlos II y su hechizo. Crónica y leyenda de un rey inacabado.pdf](https://github.com/user-attachments/files/24827404/Carlos.II.y.su.hechizo.Cronica.y.leyenda.de.un.rey.inacabado.pdf)
+[Capitulaciones de Maria Teresa de Austria.pdf](https://github.com/user-attachments/files/24827403/Capitulaciones.de.Maria.Teresa.de.Austria.pdf)
