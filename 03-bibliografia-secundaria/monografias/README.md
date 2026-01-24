@@ -18,3 +18,5 @@
 •	Capitulaciones de Maria Teresa de Austria.pdf
 
 •	La Sucesion De CarlosII y La Archiduquesa Maria Antonia de A-4095489
+
+•	Las últimas voluntades regias de la Casa de Austria de 1696
