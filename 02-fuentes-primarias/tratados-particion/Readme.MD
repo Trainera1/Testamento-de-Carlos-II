@@ -2,7 +2,7 @@
    
    Memorias, declaraciones y correspondencia diplomática del período 1668-1701
    
-   Total: 4 documentos
+   Total: 5 documentos
 
 •	Mémoire sur les dispositions hostiles des États Généraux de Hollande, après l'acceptation par Louis XIV du testament de Charles II, roi d'Espagne 9782013188234.pdf
 
@@ -11,3 +11,6 @@
 •	La embajada del Barón de Bertier y la red diplomática del elector Maximiliano II Manuel de Baviera (1695-1696)
 
 •	El tratado de Rijswijk
+
+•	Tratado de partición de la Corona de España, entre la Francia y Austria en vida de Carlos II
+
