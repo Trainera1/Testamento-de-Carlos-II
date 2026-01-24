@@ -2,7 +2,7 @@
    
    Memorias, declaraciones y correspondencia diplomática del período 1668-1701
    
-   Total: 11 documentos
+   Total: 12 documentos
 
 •	Cartas del Consejo real a Luis XIV
 
