@@ -26,3 +26,5 @@
 •	Joaquín Ponce de León Lancaster y Cárdenas, Duque de Arcos (VII) 1664 – 1729
 
 •	Investigaciones-1980-02-Motin-Madrileno-1699
+
+•	Fray Gabriel de Chiusa, confesor de Mariana de Neoburgo
