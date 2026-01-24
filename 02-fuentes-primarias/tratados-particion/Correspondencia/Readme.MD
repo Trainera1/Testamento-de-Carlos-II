@@ -25,3 +25,5 @@
 •	La correspondencia del cardenal de Moncada y la conjura contra Nithard (1666-1668) 37-correspondencia_pilo_DA_2011.pdf
 
 •	TRADUCCIONES DE CORRESPONDENCIA ARCHIVÍSTICA.docx
+
+•	Correspondance_et_papiers_de_la_familia Noailles
