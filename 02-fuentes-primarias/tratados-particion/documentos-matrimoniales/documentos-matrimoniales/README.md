@@ -9,3 +9,5 @@
 •	Contrat de mariage entre Charles II, roi d'Espagne, et Marie-Louise d'OrléansD16790010.pdf
 
 •	Convention matrimoniale entre Charles II, roi d'Espagne, et Marie-Louise d'OrléansD16790009.pdf
+
+•	Capitulaciones de María Teresa de Austria.pdf
