@@ -2,7 +2,7 @@
    
    Memorias, declaraciones y correspondencia diplomática del período 1668-1701
    
-   Total: 5 documentos
+   Total: 6 documentos
 
 •	Mémoire sur les dispositions hostiles des États Généraux de Hollande, après l'acceptation par Louis XIV du testament de Charles II, roi d'Espagne 9782013188234.pdf
 
@@ -14,3 +14,4 @@
 
 •	Tratado de partición de la Corona de España, entre la Francia y Austria en vida de Carlos II
 
+•	MS 1784 - Hechizos de Carlos II y Contexto Político Proceso_criminal_fulminado_contra_Fray_F
