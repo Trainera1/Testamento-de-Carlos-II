@@ -2,7 +2,7 @@
    
    Memorias, declaraciones y correspondencia diplomática del período 1668-1701
    
-   Total: 46 documentos
+   Total: 47 documentos
 
 •	Cartas del Consejo real a Luis XIV
 
@@ -33,3 +33,5 @@
 •	Vol1 Correspondencia Marqués de Villagarcía con reyes España, Carlos II y Felipe V y los marqueses de Ribas y La Mejorada 13 partes
 
 •	Vol2 Correspondencia Marqués de Villagarcía con reyes España, Carlos II y Felipe V y los marqueses de Ribas y La Mejorada 12 partes
+
+•	Cartas del cardenal Francisco de Borja a [Pascual Francisco de Borja Centelles, X] duque de Gandía
