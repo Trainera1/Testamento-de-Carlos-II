@@ -2,7 +2,7 @@
    
    Memorias, declaraciones y correspondencia diplomática del período 1668-1701
    
-   Total: 12 documentos
+   Total: 46 documentos
 
 •	Cartas del Consejo real a Luis XIV
 
@@ -29,3 +29,7 @@
 •	Correspondance_et_papiers_de_la_familia Noailles
 
 •	La correspondencia del cardenal de Moncada y la conjura contra Nithard (1666-1668) 37-correspondencia
+
+•	Vol1 Correspondencia Marqués de Villagarcía con reyes España, Carlos II y Felipe V y los marqueses de Ribas y La Mejorada 13 partes
+
+•	Vol2 Correspondencia Marqués de Villagarcía con reyes España, Carlos II y Felipe V y los marqueses de Ribas y La Mejorada 12 partes
