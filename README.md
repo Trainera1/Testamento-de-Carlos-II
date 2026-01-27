@@ -53,7 +53,7 @@ El 1 de noviembre de 1700 murió Carlos II sin descendencia directa. Un mes ante
 Contiene los documentos cronológicos que forman la narrativa principal de la investigación, organizados en seis partes temáticas:
 - Parte I: Análisis Forense del Testamento (páginas 1-120) ✅
 - Parte II: Dramatis Personae (páginas 121-245) ✅
-- Parte III: Los Tratados de Partición (páginas 246-430) ⏳ | ⚠️ En integración | 1.6% (3/185) | Actualizar progreso: Parte III iniciada (25.8%)"
+- Parte III: Los Tratados de Partición (páginas 246-430) ⏳ | ⚠️ En integración | 1.6% (3/185) |
 - Parte IV: La Conspiración de 1700 (páginas 431-580) ⏳
 - Parte V: Reacciones Europeas (páginas 581-700) ⏳
 - Parte VI: Síntesis y Conclusiones (páginas 701-850) ⏳
