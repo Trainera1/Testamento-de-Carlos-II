@@ -20,17 +20,138 @@
 
 ### MÓDULO 7 (FRAGMENTADO EN 3 PARTES)
 
-**Módulo 7 - PARTE III: Tratados de Partición 1698-1700**
-- Extensión: ~2 páginas (577 palabras)
-- Destino: PARTE III - Capítulo 13
-- Contenido: Tratado La Haya 1698 + Muerte José Fernando (1699)
-- Estado: ✅ Fragmentado y listo
+# 04 - MÓDULOS DE ANÁLISIS
 
-**Módulo 7 - PARTE IV: Conspiración octubre 1700**
-- Extensión: ~2 páginas (632 palabras)
-- Destino: PARTE IV - Capítulos 20-23
-- Contenido: Golpe de Estado + Redacción testamento
-- Estado: ✅ Fragmentado y reservado
+Esta carpeta contiene los módulos de análisis procesados y listos para integración en el manuscrito doctoral "LA SUCESIÓN DINÁSTICA ROTA DE LA CASA DE HABSBURGO".
+
+---
+
+## 📁 ESTRUCTURA DE LA CARPETA
+
+### ✅ ARCHIVOS FINALES (PDFs listos para integración)
+
+#### PARA PARTE IV - La Conspiración de 1700
+**Reservados para integración en febrero-marzo 2026**
+
+1. **`PARTE-IV-modulo7-1700-oct-conspiracion-testamento.pdf`** (47 KB)
+   - Contenido: Golpe de Estado en la Corte + Redacción del testamento (3 octubre 1700)
+   - Extensión: ~2 páginas
+   - Capítulos destino: 20-23
+
+2. **`PARTE-IV-modulo8-carlos-ii-prosopografia.pdf`** (138 KB)
+   - Contenido: Análisis prosopográfico completo de Carlos II
+   - Extensión: ~6 páginas
+   - Capítulo destino: 24
+   - Secciones:
+     - Colapso genético (consanguinidad)
+     - Evolución en el retrato real
+     - Informe de autopsia
+     - Influencia política de su incapacidad
+     - Descendencia inexistente
+
+#### PARA PARTE V - Reacciones Europeas (1701-1716)
+**Reservados para integración en marzo-abril 2026**
+
+3. **`PARTE-V-modulo7-1701-1716-gran-alianza-guerra.pdf`** (107 KB)
+   - Contenido: Tratado de La Haya 1701 (Gran Alianza) + Guerra de Sucesión Española + Decretos de Nueva Planta
+   - Extensión: ~13 páginas
+   - Capítulos destino: 27-30
+
+4. **`PARTE-V-modulo9-holanda-disposiciones-hostiles.pdf`** (121 KB)
+   - Contenido: Disposiciones hostiles entre España y Holanda en el siglo XVII
+   - Extensión: ~5 páginas
+   - Capítulo destino: 27
+   - Período: 1568-1648 (contexto para posición holandesa en 1701)
+
+---
+
+
+**Nota:** Los archivos .docx fragmentados (Modulo_7_PARTE-III.docx, etc.) pueden conservarse como respaldo o borrarse según preferencia.
+
+---
+
+## 📚 FUENTE BIBLIOGRÁFICA SECUNDARIA
+
+### Módulo 8b - Artículo científico
+
+**Archivo:** `CARLOS_II_DEL_HECHIZO_A_SU_PATOLOGÍA_GÉNITO-URINARIA.pdf` (282 KB)
+
+**Ubicación correcta:** `/03-bibliografia-secundaria/articulos/`
+
+**Detalles:**
+- Tipo: Artículo académico publicado en revista científica
+- Revista: *Archivos Españoles de Urología* 2009; 62(3): 179-185
+- Autores: García-Escudero López, A., Arruza Echevarría, A., Padilla Nieva, J., & Puig Giró, R.
+- Contenido: Análisis médico-histórico de la patología génito-urinaria de Carlos II
+
+**Uso en el manuscrito:**
+- Citar en Parte II (Dramatis Personae) - análisis médico de Carlos II
+- Citar en Parte IV (La Conspiración) - explicación científica de la infertilidad
+- Incluir en bibliografía del manuscrito
+
+**Cita bibliográfica:**
+```
+García-Escudero López, A., Arruza Echevarría, A., Padilla Nieva, J., & Puig Giró, R. (2009). 
+Carlos II: Del hechizo a su patología génito-urinaria. 
+Archivos Españoles de Urología, 62(3), 179-185.
+```
+
+---
+
+## 📊 CRONOLOGÍA DE INTEGRACIÓN
+
+### ✅ Fase 1 - PARTE III (Enero 2026) - COMPLETADA
+- Módulo 7b integrado como archivo 12
+- Módulo 7-PARTE-III integrado como archivo 13
+- **Resultado:** +3 páginas en Parte III
+
+### ⏳ Fase 2 - PARTE IV (Febrero-Marzo 2026) - PENDIENTE
+- Módulo 7-PARTE-IV (conspiracion-testamento)
+- Módulo 8 (prosopografia-carlos-ii)
+- **Resultado esperado:** +8 páginas en Parte IV
+
+### ⏳ Fase 3 - PARTE V (Marzo-Abril 2026) - PENDIENTE
+- Módulo 7-PARTE-V (gran-alianza-guerra)
+- Módulo 9 (holanda-disposiciones-hostiles)
+- **Resultado esperado:** +18 páginas en Parte V
+
+---
+
+## 🎯 RESUMEN EJECUTIVO
+
+**Total de módulos procesados:** 9 archivos originales (7, 7b, 7c, 8, 8b, 9)
+
+**Resultado de fragmentación:**
+- Módulo 7 original → 3 submódulos cronológicos (Partes III, IV, V)
+- Módulos 7b, 8, 9 → Convertidos a PDF sin fragmentar
+
+**Estado actual:**
+- ✅ 2 módulos integrados en manuscrito (12, 13)
+- ⏳ 4 módulos listos para integración futura (Partes IV y V)
+- 📚 1 artículo bibliográfico para citar (Módulo 8b)
+- 📄 32 PDFs de fuentes primarias (Módulo 7c) para referenciar
+
+**Impacto total esperado:** +29 páginas de contenido académico en el manuscrito
+
+---
+
+## 📝 NOTAS IMPORTANTES
+
+1. **Fragmentación del Módulo 7:** El módulo original cubría 1698-1716, excediendo el alcance cronológico de una sola parte. Se fragmentó en 3 submódulos para mantener coherencia cronológica:
+   - PARTE-III: 1698-1700 (pre-testamento)
+   - PARTE-IV: Octubre 1700 (testamento)
+   - PARTE-V: 1701-1716 (post-testamento)
+
+2. **Nomenclatura:** Los archivos para Partes IV y V tienen nomenclatura temporal (PARTE-IV-modulo7...). Al integrarlos, deberán renombrarse según el sistema del manuscrito (número-página-fecha-descripción.pdf).
+
+3. **Respaldo:** Los archivos .docx originales pueden conservarse como respaldo si se desea mantener los archivos editables.
+
+---
+
+**Última actualización:** 27 de enero de 2026  
+**Responsable:** Francisco José (investigador doctoral)  
+**Estado:** Módulos listos para integración progresiva según cronograma
+
 
 **Módulo 7 - PARTE V: Reacciones Europeas 1701-1716**
 - Extensión: ~13 páginas (3,959 palabras)
