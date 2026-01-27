@@ -4,7 +4,7 @@
 
 **Investigador Principal:** Francisco José  
 **Período de investigación:** 2024-2026  
-**Estado del manuscrito:** 245/960 páginas completadas (25.8%)
+**Estado del manuscrito:** 248/960 páginas completadas (25.8%)
 
 ---
 
