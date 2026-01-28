@@ -35,3 +35,10 @@
 •	Vol2 Correspondencia Marqués de Villagarcía con reyes España, Carlos II y Felipe V y los marqueses de Ribas y La Mejorada 12 partes
 
 •	Cartas del cardenal Francisco de Borja a [Pascual Francisco de Borja Centelles, X] duque de Gandía
+
+•	Cartas de la Junta de Gobierno (1700) y recompensas posteriores a Portocarrero, Ubilla y otros.docx
+
+•	Cartas relevantes del apéndice Portocarrero y Ubilla.docx
+
+
+
